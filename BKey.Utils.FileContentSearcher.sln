@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileContentSearcher", "FileContentSearcher.csproj", "{2B56B395-AF40-4937-88A1-DCACA2D3937D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BKey.Utils.FileContentSearcher", "BKey.Utils.FileContentSearcher.csproj", "{2B56B395-AF40-4937-88A1-DCACA2D3937D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
