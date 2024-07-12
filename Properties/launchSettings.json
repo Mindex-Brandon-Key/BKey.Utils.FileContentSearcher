@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileContentSearcher": {
+      "commandName": "Project",
+      "commandLineArgs": "-p \"C:\\Users\\bkey\\source\\repos\\Arrow\"\r\n-t \"TacticType\"\r\n-i \"*.cs\""
+    }
+  }
+}
